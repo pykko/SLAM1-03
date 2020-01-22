@@ -47,11 +47,11 @@ Jockey(matricule,poids,numeroAdherent)
 
 Cheval(id,nom,robe,numeroRace,numeroBox,numProprietaire)
 
-(1,'Deep Impact ','Blanc',1,3,13)
+(1,'Deep Impact','Blanc',1,3,13)
 (2,'Almond Eye','Alezan',2,4,14)
-(3,'Lammtarra ','Noir',1,5,14)
-(4,'Ksar ','Noir',1,7,10)
-(5,'Moonlight Cloud ','Alezan',3,9,8)
+(3,'Lammtarra','Noir',1,5,14)
+(4,'Ksar','Noir',1,7,10)
+(5,'Moonlight Cloud','Alezan',3,9,8)
 
 
 
